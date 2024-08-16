@@ -4,7 +4,7 @@ This is a simple web application that demonstrates the use of the Web Speech API
 
 ## Author
 
-**Aman Kumar Singh**
+**Ravendra Singh**
 
 - [GitHub Profile](https://github.com/Ravendra1236)
 
